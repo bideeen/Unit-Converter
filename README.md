@@ -2,7 +2,6 @@
 
 The unit converter is a solo project from Scrimba javascript course.
 
-<<<<<<< HEAD
 The unit converter only converts the below metrics:
 - Length
     - Meters to Feets
